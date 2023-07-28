@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { motion } from 'framer-motion'
-import AnimatedText from './AnimatedText'
+import Animated from './Animated'
 
 const handleScroll = (e) => {
   // first prevent the default behavior
@@ -34,7 +34,7 @@ const Header = () => {
           <div className="flex flex-wrap -mx-4">
             <div className="w-full px-4 lg:w-5/12">
               <div className="hero-content">
-                <AnimatedText
+                <Animated
                   className="mb-3 lg:text-5xl text-3xl font-bold tracking-wider leading-snug text-dark sm:text-[42px] lg:text-[40px] xl:text-[42px]"
                   text="Best IT Solution Company"
                 />

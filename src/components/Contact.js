@@ -3,7 +3,7 @@ import emailjs from '@emailjs/browser'
 import { ToastContainer, toast } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'
 import { motion } from 'framer-motion'
-import AnimatedText from './AnimatedText'
+import Animated from './Animated'
 import { MessageSquare, Call, Location } from 'iconsax-react'
 
 const ContactTextArea = ({ row, placeholder, name, defaultValue }) => {
@@ -77,7 +77,7 @@ const Contact = () => {
                 <span className="block mb-4 text-lg font-semibold text-secondary">
                   Contact Us
                 </span>
-                <AnimatedText
+                <Animated
                   text="GET IN TOUCH WITH US"
                   className="mb-6 text-[28px] font-bold uppercase text-dark sm:text-[40px] lg:text-[36px] xl:text-[40px]"
                 />

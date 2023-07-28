@@ -15,7 +15,7 @@ const qoute = {
   },
 }
 
-const AnimatedText = ({ text, className = '' }) => {
+const Animated = ({ text, className = '' }) => {
   return (
     <motion.h1
       variants={qoute}
@@ -28,4 +28,4 @@ const AnimatedText = ({ text, className = '' }) => {
   )
 }
 
-export default AnimatedText
+export default Animated

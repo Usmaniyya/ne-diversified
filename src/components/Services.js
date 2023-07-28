@@ -7,7 +7,7 @@ import {
   Candle2,
 } from 'iconsax-react'
 import { motion } from 'framer-motion'
-import AnimatedText from './AnimatedText'
+import Animated from './Animated'
 
 const Service = () => {
   return (
@@ -29,7 +29,7 @@ const Service = () => {
               <span className="block mb-2 text-xl font-semibold text-secondary">
                 Services Overview
               </span>
-              <AnimatedText
+              <Animated
                 text="What We Offer"
                 className="mb-4 text-3xl font-bold text-dark sm:text-4xl md:text-[40px]"
               />

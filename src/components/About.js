@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import AnimatedText from './AnimatedText'
+import Animated from './Animated'
 
 const About = () => {
   return (
@@ -621,7 +621,7 @@ const About = () => {
               <span className="block mb-2 text-xl font-semibold text-secondary">
                 Why Choose Us?
               </span>
-              <AnimatedText
+              <Animated
                 text="Mission"
                 className="mb-4 text-3xl font-bold text-dark sm:text-4xl"
               />
@@ -632,7 +632,7 @@ const About = () => {
                 system administrators, we are right here for you, ready to help
                 with the most specialized technical and network-related issues.
               </p>
-              <AnimatedText
+              <Animated
                 text="Vision"
                 className="mb-4 text-3xl font-bold text-dark sm:text-4xl"
               />
