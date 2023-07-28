@@ -173,12 +173,7 @@ const Navbar = () => {
                   >
                     Contact
                   </ListItem>
-                  <ListItem
-                    navItemStyles="text-dark hover:text-secondary"
-                    NavLink="#team"
-                  >
-                    Our Team
-                  </ListItem>
+
                   <ListItem
                     navItemStyles="text-dark hover:text-secondary"
                     NavLink="#ne-diversified"

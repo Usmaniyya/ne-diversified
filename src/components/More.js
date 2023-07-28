@@ -12,7 +12,7 @@ const More = () => {
         x: { duration: 1 },
       }}
       className="pt-20 pb-10 lg:pt-[120px] lg:pb-20 lg:px-24 px-8"
-      id="team"
+      id="ne-diversified"
     >
       <div className="container">
         <div className="flex flex-wrap -mx-4">
