@@ -102,7 +102,7 @@ const Contact = () => {
                     <h4 className="mb-1 text-xl font-bold text-dark">
                       Phone Number
                     </h4>
-                    <p className="text-base text-dark">(+234) 7069671389</p>
+                    <p className="text-base text-dark">(+234) 8039690327</p>
                   </div>
                 </div>
                 <div className="mb-8 flex w-full max-w-[400px]">
