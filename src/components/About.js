@@ -29,7 +29,7 @@ const About = () => {
                 </div>
                 <div className="py-3 sm:py-4">
                   <img
-                    src="https://i.ibb.co/rfHFq15/img-2.jpg"
+                    src="https://media.istockphoto.com/id/1447959482/photo/night-business-tablet-and-black-man-typing-and-reading-information-online-doing-research-and.jpg?s=612x612&w=0&k=20&c=xafrHD0wo9DpgKXvz6FWzgXdOV1Wriftz-2gC5FBNJk="
                     alt=""
                     className="w-full rounded-2xl"
                   />
@@ -38,7 +38,7 @@ const About = () => {
               <div className="w-full px-3 sm:px-4 xl:w-1/2">
                 <div className="relative z-10 my-4">
                   <img
-                    src="https://i.ibb.co/9y7nYCD/img-3.jpg"
+                    src="https://media.istockphoto.com/id/1383519614/photo/handsome-male-student-using-his-laptop-computer-in-a-coffee-shop.jpg?s=612x612&w=0&k=20&c=s3Gq2_IW8r2-s7kUbElHocWZJw8beIihwJTcUnOof0A="
                     alt=""
                     className="w-full rounded-2xl"
                   />

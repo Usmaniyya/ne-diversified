@@ -46,8 +46,8 @@ const Header = () => {
                 <ul className="flex flex-wrap items-center">
                   <li>
                     <a
-                      href="/#"
-                      className="inline-flex items-center justify-center px-6 py-4 text-base font-normal text-center text-light rounded-lg bg-secondary hover:bg-opacity-90 sm:px-10 lg:px-8 xl:px-10"
+                      href="/#about"
+                      className="inline-flex items-center justify-center px-6 py-4 text-base font-normal text-center text-light rounded-md bg-secondary hover:bg-opacity-90 sm:px-10 lg:px-8 xl:px-10"
                     >
                       Read More
                     </a>
@@ -60,9 +60,9 @@ const Header = () => {
               <div className="lg:ml-auto lg:text-right">
                 <div className="relative z-10 inline-block pt-11 lg:pt-0">
                   <img
-                    src="https://cdn.tailgrids.com/1.0/assets/images/hero/hero-image-01.png"
+                    src="https://media.istockphoto.com/id/1370598557/photo/young-african-american-office-worker-in-earphones-scrolling-in-mobile-phone.jpg?s=612x612&w=0&k=20&c=ZuLFH-WTtGWBbK-WgU_jB5WsQZ35wo-0LKEr1_Bbcjw="
                     alt="hero"
-                    className="max-w-full lg:ml-auto"
+                    className="max-w-full lg:ml-auto rounded-6xl"
                   />
                   <span className="absolute -left-8 -bottom-8 z-[-1]">
                     <svg

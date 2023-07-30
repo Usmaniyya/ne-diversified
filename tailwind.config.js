@@ -6,6 +6,12 @@ module.exports = {
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
+    borderRadius: {
+      '6xl': '56px 10px 56px 10px',
+      '2xl': '1rem',
+      full: '9999px',
+      md: '0.5rem',
+    },
     extend: {
       boxShadow: {
         '3xl': '0 4px 2px -2px rgb(0 0 0 / 0.05)',

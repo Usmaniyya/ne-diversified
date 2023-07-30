@@ -30,9 +30,8 @@ const Footer = () => {
 
           <LinkGroup header="Company">
             <NavLink link="/#" label="About Us" />
-            <NavLink link="/#" label="Policy" />
             <NavLink link="/#" label="Our Services" />
-            <NavLink link="/#" label="Know Our Team" />
+            <NavLink link="/#" label="Contact" />
           </LinkGroup>
           <div className="w-full px-4 sm:w-1/2 lg:w-3/12">
             <div className="w-full mb-10">
